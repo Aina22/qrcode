@@ -1,4 +1,5 @@
 ﻿# qrcode-generator
+ This project was created on React  + Vite using package manager pnpm.
 ## Installation 
 Run the following command:
 ```bash
