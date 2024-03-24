@@ -1,6 +1,6 @@
 ﻿# qrcode-generator
 ## Installation 
-run the following command:
+Run the following command:
 ```bash
 git clone https://github.com/Aina22/qrcode.git
 cd qrcode
